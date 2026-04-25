@@ -1,0 +1,233 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-image: url(images/fadhi.jpg);
+background-size: cover;
+background-size:  99vw 100vh;
+background-repeat:no-repeat;
+
+ }
+
+.CL{
+    width:100px;
+    height:200px;
+    object-position: cover;
+}
+
+
+
+.menu-bg{
+    background-image: url(images/gadal.jpg);
+background-size: cover;
+background-size: 200vw 400vh;
+background-repeat:no-repeat;
+
+}
+
+.contact{
+    background-image: url(images/Whatsapp.jpg);
+background-size: cover;
+background-size: 150vw 100vh;
+background-repeat:no-repeat;
+}
+
+
+.bedel{
+    color:#FFD700;
+}
+.vv{
+    color: #ffd700;
+    font-weight: 500;
+}
+/*list images */
+
+.sawir{
+    width:100%;
+    height:250px;
+    object-fit: cover;
+}
+.list-images{
+    width: 90%;
+    height: 200px;
+    object-fit: cover;
+}
+.baasto{
+width: 90%;
+height: 200px;
+object-fit: cover;
+}
+.digag{
+width: 90%;
+height: 200px;
+object-fit: cover;
+}
+.mango{
+width: 90%;
+height: 200px;
+object-fit: cover;
+}
+.Tea{
+width: 90%;
+height: 200px;
+object-fit: cover;
+}
+.milk{
+width: 90%;
+height: 200px;
+object-fit: cover;
+}
+.Halwa{
+    width: 90%;
+    height:200px;
+   object-fit: cover
+}
+.Dates{
+width: 90%;
+height: 200px;
+object-fit: cover;
+}
+
+.Banana{
+width: 90%;
+height: 200px;
+object-fit: cover;
+}
+
+
+
+
+
+main ul li {
+    font-size: larger;
+}
+
+
+header  {
+    background-color: #8b0000;
+    padding: 5px;
+    width: 100%;
+
+  
+}
+
+
+/* class selector of menu page */
+.bg{
+    background-color:rgba(0,0,0,0.7);
+  
+    
+    
+}
+
+/* about img*/
+.cunto{
+width: 500px;
+height: 500px;
+object-fit: cover;
+}
+
+/* gallery img*/
+.fd{ 
+width: 200px;
+height: 200px;
+object-fit: cover;
+}
+#me{
+width: 200px;
+height: 200px;
+object-fit: cover;
+}
+#ai{
+width: 400px;
+height: 300px;
+object-fit: cover;
+    
+}
+
+main ul li span {
+    color:darkgreen; 
+}
+header h1{
+    font-size: 150%;
+    text-align: center;
+    color:#ffffff;
+}
+
+/* descdent selector  */
+header p{
+    color:#fffedc;
+    font-size: 1em;
+    font-style: italic;
+    font-weight: 800;
+    text-align: center;
+}
+
+nav a{
+color: #00A;
+font-size:20px;
+   text-decoration: none;
+   font-weight: 700;
+   
+}
+
+ nav ul{
+    list-style-type:none;
+}
+
+
+main p{
+    line-height: 3em;
+    color: darkred;
+    letter-spacing: 20%;
+    text-indent: 30px;
+    font-weight: 200;
+    
+}
+main h2{
+    color:darkred;
+    letter-spacing:25%;
+  
+}
+
+main p span {
+    color: black;
+    text-transform: uppercase;
+}
+
+main ul li{
+  list-style-type: none;
+
+}
+
+.foot{
+    background-color: lightblue;
+   height:80px;
+
+   font-size: medium;
+   font-style: italic;
+    
+}
+
+.restaurant{
+width: 400px;
+height: 400px;
+}
+
+
+
+
+
+
+
+
+
+/* id selector of index page  */
+/* #resdescription{
+    color: rgb(15, 188, 26);
+} */
+
+
+
+
+
